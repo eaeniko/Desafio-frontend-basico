@@ -1,0 +1,41 @@
+h1 {
+	margin: 0;
+	padding: 0;
+}
+#header {
+	border: 1px solid;
+	background-color: skyblue;
+	width: 100%;
+	height: 250px;
+	margin: 0 auto;
+	position: absolute;
+
+}
+.title {
+	position: relative;
+	top: 15%;
+	left: 45%;
+}
+
+.about {
+	border: 1px solid black;
+	box-shadow: 0 0 1px 1px;
+	position: relative;
+	top: 220px;
+	left: 25%;
+	width: 50%;
+	height: 200px;
+}
+
+.icons {
+	border: 1px solid red;
+	width: 100%;
+	height: 300px;
+}
+
+#footer {
+	border: 1px solid orange;
+	background-color: orange;
+	width: 100%;
+	height: 150px;
+}
